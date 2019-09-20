@@ -20,7 +20,7 @@ let hexCode = [
     code: {
       hex: "#FFB6C1	"
     },
-    id: 4
+    id: 3
   },
 
   {
